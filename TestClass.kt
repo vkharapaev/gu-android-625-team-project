@@ -1,3 +1,5 @@
 class TestClass() {
+	fun test() {
 	
+	}	
 }
